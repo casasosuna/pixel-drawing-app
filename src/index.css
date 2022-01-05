@@ -42,3 +42,6 @@ code {
   flex-wrap: wrap;
   max-width: 900px;
 }
+.pixel.current-color {
+  border: 4px solid yellow;
+}
